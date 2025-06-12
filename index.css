@@ -1,0 +1,21 @@
+<css>
+<head>
+<body>
+<style>
+head{text-align: centre;
+h2 color: black;}
+body{background-image: url"kavu1.jpg";}
+h1{color: blue;
+text-alogn: centre;}
+p{color: blue;}
+h2{color:black;}
+marquee{color: pink;}
+/* HOME PAGE */
+.hero{
+background:url("mines/zege.jpg") no-repeat centre centre/cover;
+height: 400px;
+display: flex;
+}
+</style>
+</body>
+</head>
